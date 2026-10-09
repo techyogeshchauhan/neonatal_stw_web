@@ -306,7 +306,9 @@
       "perinatal risk factors",
       "worsening",
       "blood culture",
-      "antibiotics"
+      "antibiotics",
+      "suspect sepsis",
+      "sepsis in respiratory distress"
     ],
     "example_questions": [
       "How frequently should a neonate in respiratory distress be reassessed?",
@@ -1166,7 +1168,10 @@
       "phenylephrine 2.5%",
       "tropicamide 0.5-0.8%",
       "pupil dilation",
-      "swaddling"
+      "swaddling",
+      "pain relief",
+      "analgesia",
+      "before the exam"
     ],
     "example_questions": [
       "How to prepare a baby for ROP screening?",
@@ -1476,7 +1481,8 @@
       "donts",
       "do not discharge without screening plan",
       "do not delay treatment",
-      "no unblended oxygen"
+      "no unblended oxygen",
+      "discharge without follow-up plan"
     ],
     "example_questions": [
       "What are the clinical DON'Ts for ROP?",
@@ -2620,7 +2626,8 @@
     "crop_image": "assets/regions/crops/hypo_asymptomatic_branch.webp",
     "segments": [
       {
-        "text": "ASYMPTOMATIC & BG ≥25 mg/dL"
+        "text": "ASYMPTOMATIC & BG ≥25 mg/dL",
+        "header": true
       },
       {
         "text": "Immediate supervised feeding"
@@ -2713,7 +2720,8 @@
     "crop_image": "assets/regions/crops/hypo_symptomatic_branch.webp",
     "segments": [
       {
-        "text": "SYMPTOMATIC OR BG < 25 mg/dL"
+        "text": "SYMPTOMATIC OR BG < 25 mg/dL",
+        "header": true
       },
       {
         "text": "IV bolus: 2 ml/kg of 10% of dextrose slowly over 1 minute"
@@ -3039,7 +3047,9 @@
       "underlying cause",
       "polycythemia",
       "meningitis",
-      "iugr"
+      "iugr",
+      "underlying causes",
+      "causes of hypoglycemia"
     ],
     "example_questions": [
       "Maximum dextrose concentration through a peripheral vein",

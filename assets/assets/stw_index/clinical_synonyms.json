@@ -175,5 +175,17 @@
     "topical anesthetic",
     "0.5% proparacaine",
     "eye drops"
+  ],
+  "pain relief": [
+    "analgesia"
+  ],
+  "pain": [
+    "analgesia"
+  ],
+  "withheld": [
+    "withhold"
+  ],
+  "withhold": [
+    "withheld"
   ]
 }
