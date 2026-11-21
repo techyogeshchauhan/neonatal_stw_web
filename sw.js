@@ -7,7 +7,7 @@
 // last build this browser installed.
 'use strict';
 
-const VERSION = '9cfaa69810b85c05';
+const VERSION = '8633acc5d52a4a4b';
 const CACHE = 'stw-neo-' + VERSION;
 
 // Needed to start the app offline.
